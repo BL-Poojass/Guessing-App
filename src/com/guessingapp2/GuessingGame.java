@@ -1,6 +1,4 @@
-package com.guessingapp1;
-
-package com.guessingapp;
+package com.guessingapp2;
 
 import java.util.Random;
 import java.util.Scanner;
